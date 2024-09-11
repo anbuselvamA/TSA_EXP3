@@ -1,5 +1,5 @@
 # Ex.No: 03   COMPUTE THE AUTO FUNCTION(ACF)
-# Develper name : A.Anbuselvam
+# Develped by : A.Anbuselvam
 # Reg no : 212222240009
 
 ### AIM:
